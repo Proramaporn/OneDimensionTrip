@@ -1,3 +1,9 @@
-to run this 
+Run the following command to install all necessary packages:
+
+```bash
 npm install
-npm start
+```
+
+```bash
+npm หะฟพะ
+```
