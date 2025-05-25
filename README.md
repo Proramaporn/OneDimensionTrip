@@ -1,1 +1,3 @@
-This project is for queue system.
+To run this 
+npm install
+npm start
